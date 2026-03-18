@@ -70,5 +70,5 @@ pip install markdown2 jinja2 --break-system-packages
 ---
 
 **作者**: seacity  
-**GitHub**: https://github.com/seacity/markdown-to-html-visualizer  
+**GitHub**: https://github.com/haicheng0516/markdown-to-html-visualizer  
 **License**: MIT

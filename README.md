@@ -14,7 +14,7 @@
 
 ### 安装
 ```bash
-git clone https://github.com/seacity/markdown-to-html-visualizer.git
+git clone https://github.com/haicheng0516/markdown-to-html-visualizer.git
 cd markdown-to-html-visualizer
 pip install markdown2 jinja2 --break-system-packages
 ```
@@ -51,4 +51,4 @@ MIT
 
 ## 👤 作者
 
-seacity - https://github.com/seacity
+haicheng0516 - https://github.com/haicheng0516
